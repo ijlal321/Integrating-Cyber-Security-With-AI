@@ -13,8 +13,9 @@ In this project, we leverage AI techniques to detect phishing attempts in emails
 ### Building An Email Filtering System With AI
 This project involves developing an AI-powered email filtering system to differentiate between legitimate emails (ham) and spam emails. Using machine learning algorithms such as K-Nearest Neighbors (KNN), the system learns to classify incoming emails accurately, improving email security and user experience.
 
-## Other Projects
-Apart from the main projects listed above, this repository will contain several other projects showcasing various aspects of integrating cybersecurity with AI. Feel free to explore and contribute to these projects as well. 
+## More Projects Coming Soon
+We are continuously working on new projects to expand our cybersecurity portfolio. Stay tuned for upcoming projects covering a wide range of cybersecurity with AI topics.
+
 
 ## Usage
 Each project folder contains detailed documentation, including setup instructions, usage guidelines, and explanations of the AI models and techniques employed. Refer to the respective project directories for comprehensive documentation.
